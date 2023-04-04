@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/bridj-0.6.2-windows-only.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/filters-2.0.235.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/gradient-icon-font.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/KensoftAnimation.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/mssql-jdbc-10.2.1.jre17.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/table-custom.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/TimingFramework-0.55.jar"/>
+	<classpathentry kind="lib" path="C:/FPT Polytechnic/SOF304/Nop bai/Asm/ASM_KiemThu/SOF304_QLShopQuanAo/src/com/raven/lib/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
