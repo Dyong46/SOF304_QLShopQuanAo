@@ -12,7 +12,7 @@ public class XDate {
      * Chuyển đổi String sang Date
      *
      * @param date là String cần chuyển
-     * @param pattern là định dạng thời gian
+     * @param pattern là định dạng th�?i gian
      * @return Date kết quả
      */
     public static Date toDate(String date, String... pattern) {
@@ -33,7 +33,7 @@ public class XDate {
      * Chuyển đổi từ Date sang String
      *
      * @param date là Date cần chuyển đổi
-     * @param pattern là định dạng thời gian
+     * @param pattern là định dạng th�?i gian
      * @return String kết quả
      */
     public static String toString(Date date, String... pattern) {
@@ -68,7 +68,7 @@ public class XDate {
 //    }
 
     /**
-     * Lấy thời gian hiện tại
+     * Lấy th�?i gian hiện tại
      *
      * @return Date kết quả
      */
@@ -77,9 +77,9 @@ public class XDate {
     }
 
     /**
-     * Bổ sung số ngày vào thời gian
+     * Bổ sung số ngày vào th�?i gian
      *
-     * @param date thời gian hiện có
+     * @param date th�?i gian hiện có
      * @param days số ngày cần bổ sung váo date
      * @return Date kết quả
      */
@@ -89,9 +89,9 @@ public class XDate {
     }
 
     /**
-     * Bổ sung số ngày vào thời gian hiện hành
+     * Bổ sung số ngày vào th�?i gian hiện hành
      *
-     * @param days số ngày cần bổ sung vào thời gian hiện tại
+     * @param days số ngày cần bổ sung vào th�?i gian hiện tại
      * @return Date kết quả
      */
     public static Date add(int days) {

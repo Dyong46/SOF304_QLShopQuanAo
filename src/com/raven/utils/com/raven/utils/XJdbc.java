@@ -28,8 +28,8 @@ public class XJdbc {
     /**
      * Xây dựng PreparedStatement
      *
-     * @param sql là câu lệnh SQL chứa có thể chứa tham số. Nó có thể là một lời
-     * gọi thủ tục lưu
+     * @param sql là câu lệnh SQL chứa có thể chứa tham số. Nó có thể là một l�?i
+     * g�?i thủ tục lưu
      * @param args là danh sách các giá trị được cung cấp cho các tham số trong
      * câu lệnh sql
      * @return PreparedStatement tạo được
@@ -53,8 +53,8 @@ public class XJdbc {
      * Thực hiện câu lệnh SQL thao tác (INSERT, UPDATE, DELETE) hoặc thủ tục lưu
      * thao tác dữ liệu
      *
-     * @param sql là câu lệnh SQL chứa có thể chứa tham số. Nó có thể là một lời
-     * gọi thủ tục lưu
+     * @param sql là câu lệnh SQL chứa có thể chứa tham số. Nó có thể là một l�?i
+     * g�?i thủ tục lưu
      * @param args là danh sách các giá trị được cung cấp cho các tham số trong
      * câu lệnh sql *
      */
@@ -75,8 +75,8 @@ public class XJdbc {
      * Thực hiện câu lệnh SQL truy vấn (SELECT) hoặc thủ tục lưu truy vấn dữ
      * liệu
      *
-     * @param sql là câu lệnh SQL chứa có thể chứa tham số. Nó có thể là một lời
-     * gọi thủ tục lưu
+     * @param sql là câu lệnh SQL chứa có thể chứa tham số. Nó có thể là một l�?i
+     * g�?i thủ tục lưu
      * @param args là danh sách các giá trị được cung cấp cho các tham số trong
      * câu lệnh sql
      * @return 

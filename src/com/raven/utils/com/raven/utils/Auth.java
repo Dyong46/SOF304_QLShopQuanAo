@@ -6,12 +6,12 @@ import com.raven.model.NhanVien;
 
 public class Auth {
     /**
-     * Đối tượng này chứa thông tin người sử dụng sau khi đăng nhập
+     * �?ối tượng này chứa thông tin ngư�?i sử dụng sau khi đăng nhập
      */
     public static NhanVien user = null;
     
     /**
-     * Xóa thông tin của người sử dụng khi có yêu cầu đăng xuất
+     * Xóa thông tin của ngư�?i sử dụng khi có yêu cầu đăng xuất
      */
     public static void clear() {
         Auth.user = null;
