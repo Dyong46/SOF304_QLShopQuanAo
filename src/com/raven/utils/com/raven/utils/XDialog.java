@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 public class XDialog {
 
     /**
-     * Hiển thị thông báo cho người dùng
+     * Hiển thị thông báo cho ngư�?i dùng
      *
      * @param parent là cửa sổ chứa thông báo
      * @param message là thông báo
@@ -17,10 +17,10 @@ public class XDialog {
     }
 
     /**
-     * Hiển thị thông báo và yêu cầu người dùng xác nhận
+     * Hiển thị thông báo và yêu cầu ngư�?i dùng xác nhận
      *
      * @param parent là cửa sổ chứa thông báo
-     * @param message là câu hỏi yes/no
+     * @param message là câu h�?i yes/no
      * @return là kết quả nhận được true/false
      */
     public static boolean confirm(Component parent, String message) {
@@ -42,7 +42,7 @@ public class XDialog {
      *
      * @param parent là cửa sổ chứa thông báo
      * @param message là thông báo nhắc nhở nhập
-     * @return là kết quả nhận được từ người sử dụng nhập vào
+     * @return là kết quả nhận được từ ngư�?i sử dụng nhập vào
      */
     public static String prompt(Component parent, String message) {
         return JOptionPane.showInputDialog(parent, message,

@@ -13,7 +13,7 @@ import javax.swing.ImageIcon;
 public class XShare {
 
     /**
-     * Ảnh biểu tượng của ứng dụng, xuất hiện trên mọi cửa sổ
+     * Ảnh biểu tượng của ứng dụng, xuất hiện trên m�?i cửa sổ
      */
     public static final Image APP_ICON;
 
@@ -24,7 +24,7 @@ public class XShare {
     }
 
     /**
-     * Sao chép file logo chuyên đề vào thư mục logo
+     * Sao chép file logo chuyên đ�? vào thư mục logo
      *
      * @param file là đối tượng file ảnh
      * @return chép được hay không
@@ -48,10 +48,10 @@ public class XShare {
     }
 
     /**
-     * Đọc hình ảnh logo chuyên đề
+     * �?�?c hình ảnh logo chuyên đ�?
      *
      * @param fileName là tên file logo
-     * @return ảnh đọc được
+     * @return ảnh đ�?c được
      */
     public static ImageIcon readLogo(String fileName) {
         File path = new File("logos", fileName);
@@ -59,12 +59,12 @@ public class XShare {
     }
 
     /**
-     * Đối tượng này chứa thông tin người sử dụng sau khi đăng nhập
+     * �?ối tượng này chứa thông tin ngư�?i sử dụng sau khi đăng nhập
      */
     public static NhanVien USER = null;
 
     /**
-     * Xóa thông tin của người sử dụng khi có yêu cầu đăng xuất
+     * Xóa thông tin của ngư�?i sử dụng khi có yêu cầu đăng xuất
      */
     public static void logoff() {
         XShare.USER = null;

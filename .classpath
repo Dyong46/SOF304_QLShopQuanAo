@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry excluding="com/raven/utils/|com/raven/swing/table/" kind="src" path="src"/>
+=======
+	<classpathentry excluding="com/raven/swing/table/|com/raven/utils/|com/test/KhachHangDAO/testKhachHangDAO.java" kind="src" path="src"/>
+>>>>>>> cfb56ef8f5823b15e95f145f5810b07ddff40e42
 	<classpathentry kind="src" path="src/com/raven/swing/table"/>
 	<classpathentry kind="src" path="src/com/raven/utils"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
@@ -8,6 +12,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/AbsoluteLayout.jar"/>
@@ -29,5 +34,27 @@
 	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/table-custom.jar"/>
 	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/TimingFramework-0.55.jar"/>
 	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/webcam-capture-0.3.12.jar"/>
+=======
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/bridj-0.6.2-windows-only.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/filters-2.0.235.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/gradient-icon-font.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/KensoftAnimation.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/mssql-jdbc-10.2.1.jre17.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/table-custom.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/TimingFramework-0.55.jar"/>
+	<classpathentry kind="lib" path="D:/Seasion5/KTnangcao/Libary/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+>>>>>>> cfb56ef8f5823b15e95f145f5810b07ddff40e42
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
