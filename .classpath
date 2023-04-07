@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/raven/utils/|com/raven/swing/table/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/com/raven/swing/table"/>
+	<classpathentry kind="src" path="src/com/raven/utils"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/bridj-0.6.2-windows-only.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/filters-2.0.235.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/gradient-icon-font.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/KensoftAnimation.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/mssql-jdbc-10.2.1.jre17.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/table-custom.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/TimingFramework-0.55.jar"/>
+	<classpathentry kind="lib" path="D:/FPT/DuAn1/Libary/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
